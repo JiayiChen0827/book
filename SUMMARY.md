@@ -6,6 +6,7 @@
        * [商户列表](shanghu_lie_biao_md.md)
    * [微信MM站](wei_xin_mm_zhan.md)
 * [流程](process.md)
+   * 统一收银台付款
 * [结构](structure.md)
    * 流水线
 * 项目介绍
