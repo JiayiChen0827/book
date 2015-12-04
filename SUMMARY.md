@@ -6,7 +6,7 @@
        * [商户列表](shanghu_lie_biao_md.md)
    * [微信MM站](wei_xin_mm_zhan.md)
 * [流程](process.md)
-   * 统一收银台付款
+   * 支付流程
    * 创单
    * 创单后
 * [结构](structure.md)
