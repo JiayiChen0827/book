@@ -24,6 +24,7 @@
 * [6项目介绍](xiang_mu_jie_shao.md)
    * [6.1底层Service](di_ceng_service.md)
        * [6.1.1 hui-order-service](611_hui-order-service.md)
+       * 6.1.2 cashier-order-service
    * 应用层Service
    * 展示层Web
 * 常用工具
