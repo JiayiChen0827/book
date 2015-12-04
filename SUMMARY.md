@@ -8,7 +8,7 @@
 * [流程](process.md)
    * 支付流程
    * 退款流程
-   * 创单后
+   * 查询流程
 * [结构](structure.md)
    * 流水线
 * [数据库及常用表](shu_ju_ku_ji_chang_yong_biao.md)
