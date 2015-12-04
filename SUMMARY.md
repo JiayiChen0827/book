@@ -6,7 +6,7 @@
        * [商户列表](shanghu_lie_biao_md.md)
    * [微信MM站](wei_xin_mm_zhan.md)
 * [流程](process.md)
-   * 支付流程
+   * [支付流程](zhi_fu_liu_cheng.md)
    * 退款流程
    * 查询流程
 * [结构](structure.md)
