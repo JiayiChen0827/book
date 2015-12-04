@@ -23,7 +23,7 @@
    * [数据库DianpingHui](shu_ju_ku_dianpinghui.md)
 * [6项目介绍](xiang_mu_jie_shao.md)
    * [6.1底层Service](di_ceng_service.md)
-       * 6.1.1 hui-order-service
+       * [6.1.1 hui-order-service](611_hui-order-service.md)
    * 应用层Service
    * 展示层Web
 * 常用工具
