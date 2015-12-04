@@ -7,7 +7,7 @@
    * [微信MM站](wei_xin_mm_zhan.md)
 * [3流程](process.md)
    * [3.1支付流程](zhi_fu_liu_cheng.md)
-       * 用户操作
+       * 3.1.1用户操作
    * 退款流程
    * 查询流程
 * [结构](structure.md)
