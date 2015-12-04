@@ -11,6 +11,6 @@
    * 创单后
 * [结构](structure.md)
    * 流水线
-* 数据库及常用表
+* [数据库及常用表](shu_ju_ku_ji_chang_yong_biao.md)
 * [项目介绍](xiang_mu_jie_shao.md)
 
