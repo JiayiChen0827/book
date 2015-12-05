@@ -32,5 +32,6 @@
        * 6.3.1 hui-mapi-web
        * 6.3.2 hui-mapi-demote-web
        * 6.3.3 hui-m-web
+       * 6.3.4 bb-merchant-mopay-web
 * 常用工具
 
