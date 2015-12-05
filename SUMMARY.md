@@ -31,5 +31,6 @@
    * [展示层Web](zhan_shi_ceng_web.md)
        * 6.3.1 hui-mapi-web
        * 6.3.2 hui-mapi-demote-web
+       * 6.3.3 hui-m-service
 * 常用工具
 
