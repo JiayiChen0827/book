@@ -4,9 +4,9 @@
     
 其中：
 
-OrderId:为父订单Id;
+OrderId : 为父订单Id;
 
-OrderType:为子订单类型:
+OrderType : 为子订单类型:
 
  * 0:未知；
  * 10:代金券未买；
@@ -14,4 +14,4 @@ OrderType:为子订单类型:
  * 20:剩余部分支付。
  
 
-PayOrderId:纪录非0元单中支付订单Id；
+PayOrderId : 纪录非0元单中支付订单Id；
