@@ -31,7 +31,7 @@
        * 6.1.3 hui-cache-service
        * 6.1.4 hui-common-service
        * 6.1.5 hui-couponoffer-rpc-service
-   * 应用层Service
+   * 6.2应用层Service
    * [展示层Web](zhan_shi_ceng_web.md)
        * 6.3.1 hui-mapi-web
        * 6.3.2 hui-mapi-demote-web
