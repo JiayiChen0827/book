@@ -7,7 +7,7 @@
    * [2.2微信MM站](wei_xin_mm_zhan.md)
    * 2.3商务后台
 * [3结构](structure.md)
-   * 3.1闪惠部署图
+   * [3.1闪惠部署图](31shan_hui_bu_shu_tu.md)
 * [4流程](process.md)
    * [3.1支付流程](zhi_fu_liu_cheng.md)
        * [3.1.1用户操作](311yong_hu_cao_zuo.md)
