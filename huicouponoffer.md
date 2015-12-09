@@ -14,4 +14,4 @@ RedeemType:
 * 30:闪付
 
  
-RedeemRule（主要）:
+RedeemRule（主要为满减和发用券）:
