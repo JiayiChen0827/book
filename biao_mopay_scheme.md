@@ -7,6 +7,7 @@
 scheme_id:对应scheme；
 
 solution_id:对应solution；
+
 type：0为点评/1为美团。
 
 
