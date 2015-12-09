@@ -6,4 +6,6 @@
 
 OrderId:为父订单Id;
 
-OrderType:为子订单类型。
+OrderType:为子订单类型:
+
+ * 0:未知
