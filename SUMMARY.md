@@ -29,6 +29,7 @@
        * [6.1.1 hui-order-service](611_hui-order-service.md)
        * 6.1.2 cashier-order-service
        * 6.1.3 hui-cache-service
+       * 6.1.4 hui-common-service
    * 应用层Service
    * [展示层Web](zhan_shi_ceng_web.md)
        * 6.3.1 hui-mapi-web
