@@ -4,11 +4,12 @@
     
 表MOPay_Scheme:
 
-scheme_id:对应scheme；
+* scheme_id:对应scheme；
 
-solution_id:对应solution；
+* solution_id:对应solution；
 
-type：0为点评/1为美团。
+* type：0为点评/1为美团。
+
 
 
 表MOPay_Scheme_CouponOffer:
