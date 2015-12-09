@@ -38,5 +38,6 @@
        * 6.3.3 hui-m-web
        * 6.3.4 bb-merchant-mopay-web
    * [6.4 对外接口](64_dui_wai_jie_kou.md)
+       * 6.4.1 hui-open-service
 * 7常用工具
 
