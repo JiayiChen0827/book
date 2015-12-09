@@ -16,3 +16,4 @@ RedeemType:
  
 RedeemRule（主要为满减和发用券）:
 * 折扣：
+* 发券
