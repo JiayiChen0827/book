@@ -33,6 +33,7 @@
        * 6.1.5 hui-couponoffer-rpc-service
    * [6.2应用层Service](62ying_yong_ceng_service.md)
        * 6.2.1 mopay-service
+       * 6.2.2 unicashier-service
    * [6.3展示层Web](zhan_shi_ceng_web.md)
        * 6.3.1 hui-mapi-web
        * 6.3.2 hui-mapi-demote-web
