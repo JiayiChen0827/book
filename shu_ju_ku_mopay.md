@@ -7,4 +7,4 @@
  Port : 3306
 
 
-Beta账号/密码：aspnet_dianping/
+Beta账号/密码：aspnet_dianping/aspnet_dianping
