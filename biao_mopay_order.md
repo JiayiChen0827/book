@@ -3,3 +3,5 @@
     MOPay_Order表纪录在用的闪惠订单信息。
 
 其中需要提及的column有：
+
+OrderStatus:取代Status表示订单状态信息
