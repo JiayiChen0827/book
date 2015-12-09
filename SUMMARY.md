@@ -4,7 +4,7 @@
 * [2业务](yewumd.md)
    * [2.1应用APP站](application.md)
        * [商户列表](shanghu_lie_biao_md.md)
-   * [微信MM站](wei_xin_mm_zhan.md)
+   * [2.2微信MM站](wei_xin_mm_zhan.md)
    * 2.3商务后台
 * [3结构](structure.md)
    * 流水线
