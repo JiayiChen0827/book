@@ -1,3 +1,3 @@
 # 表MOPay_Scheme
 
-    包括MOPay_Scheme以及MOPay_Scheme_CouponOffer表,并主要关联于DianpingHui中的表HUI_CouponOffer
+    包括MOPay_Scheme以及MOPay_Scheme_CouponOffer表,并主要关联于DianpingHui中的表HUI_CouponOffer。
