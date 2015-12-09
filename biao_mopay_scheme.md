@@ -19,3 +19,6 @@
 * coupon_offer_id:对应表HUI_CouponOffer中CouponOfferId；
 
 * shop_id:shop Id;
+
+*
+
