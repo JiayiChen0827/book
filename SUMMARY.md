@@ -37,5 +37,6 @@
        * 6.3.2 hui-mapi-demote-web
        * 6.3.3 hui-m-web
        * 6.3.4 bb-merchant-mopay-web
+   * 6.4 对外接口
 * 7常用工具
 
