@@ -5,3 +5,5 @@
 其中：
 
 OrderId:为父订单Id;
+
+OrderType:为子订单类型
