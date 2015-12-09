@@ -10,7 +10,8 @@
 其中非0元单创单时会生成付款单，向支付中心发送消息。
 
 
-之后调用mopay-service创建mopay order。
+3. 调用mopay-service创建mopay order。
+
 
   
  
