@@ -4,4 +4,4 @@ cashier-service监听订单状态消息，更新子订单状态；
 
 通过子订单状态信息，更新订单状态同时向mopay-service发送消息；
 
-mopay-service收到
+mopay-service更具收到的订单状态消息更新mopay-order状态，同时
