@@ -10,4 +10,4 @@ SerializedId：MM站订单使用这里的数据。
 
 CashierOrderId：关联UniCashier_Order表，为其Id。
 
-PayOrderId:此处以废弃。
+PayOrderId:此处以废弃
