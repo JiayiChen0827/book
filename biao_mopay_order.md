@@ -4,4 +4,4 @@
 
 其中需要提及的column有：
 
-OrderStatus:取代Status表示订单状态信息
+OrderStatus:取代Status表示订单状态信息。
