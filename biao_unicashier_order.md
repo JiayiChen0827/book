@@ -6,3 +6,4 @@
 
 Status:纪录订单当前状态；
 
+SerializedId
