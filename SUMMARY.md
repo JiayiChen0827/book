@@ -18,7 +18,7 @@
 * [5数据库及常用表](shu_ju_ku_ji_chang_yong_biao.md)
    * [数据库MOPay](shu_ju_ku_mopay.md)
        * [表MOPay_Order](biao_mopay_order.md)
-       * 表MOPay_Scheme
+       * [表MOPay_Scheme](biao_mopay_scheme.md)
        * [表UniCashier_Order](biao_unicashier_order.md)
        * [表UniCashier_Order_Children](biao_unicashier_order_children.md)
    * [数据库DianpingHui](shu_ju_ku_dianpinghui.md)
