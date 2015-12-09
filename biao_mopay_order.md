@@ -8,4 +8,4 @@ OrderStatus:取代Status表示订单状态信息。
 
 SerializedId：MM站订单使用这里的数据。
 
-CashierOrderId：关联UniCashier_Order表
+CashierOrderId：关联UniCashier_Order表，为其Id。
