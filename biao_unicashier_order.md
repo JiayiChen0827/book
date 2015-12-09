@@ -6,4 +6,4 @@
 
 Status:纪录订单当前状态；
 
-SerializedId:主站订单
+SerializedId:主站订单使用此处数据；
