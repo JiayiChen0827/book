@@ -4,4 +4,4 @@
 
 大部分字段意如其名。
 
-RedeemType
+RedeemType:
