@@ -22,7 +22,7 @@
        * [表UniCashier_Order](biao_unicashier_order.md)
        * [表UniCashier_Order_Children](biao_unicashier_order_children.md)
    * [数据库DianpingHui](shu_ju_ku_dianpinghui.md)
-       * HUI_CouponOffer
+       * [HUI_CouponOffer](huicouponoffer.md)
        * MU_PromoQuery_Detail
 * [6项目介绍](xiang_mu_jie_shao.md)
    * [6.1底层Service](di_ceng_service.md)
