@@ -5,7 +5,8 @@
 其中需要提及的column有：
 
 OrderStatus:取代Status表示订单状态信息。
-* 0:未支付
+* 0:未支付；
+* 10:支付中
 
 
 SerializedId：MM站订单使用这里的数据。
