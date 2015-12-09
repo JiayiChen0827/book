@@ -12,3 +12,6 @@ RedeemType:
 * 11:用券
 * 20:自助餐
 * 30:闪付
+
+ 
+RedeemRule
