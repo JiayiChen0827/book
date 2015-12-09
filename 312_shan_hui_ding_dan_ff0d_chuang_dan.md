@@ -2,7 +2,7 @@
 
     创单操作由mopay-service和cashier-service共同完成。
 
-
+创单操作主要由以下步骤组成：
   
   
  
