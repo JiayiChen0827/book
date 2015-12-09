@@ -20,5 +20,5 @@
 
 * shop_id:shop Id;
 
-status:10在线/20下线；
+* status:10在线/20下线；
 
