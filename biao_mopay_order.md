@@ -7,6 +7,7 @@
 OrderStatus:取代Status表示订单状态信息。
 * 0:未支付；
 * 10:已支付；
+* 20:支付失败
 
 
 SerializedId：MM站订单使用这里的数据。
