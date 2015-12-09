@@ -30,6 +30,7 @@
        * 6.1.2 cashier-order-service
        * 6.1.3 hui-cache-service
        * 6.1.4 hui-common-service
+       * 6.1.5 hui-couponoffer-rpc-service
    * 应用层Service
    * [展示层Web](zhan_shi_ceng_web.md)
        * 6.3.1 hui-mapi-web
