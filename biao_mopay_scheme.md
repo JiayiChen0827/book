@@ -15,3 +15,4 @@
 表MOPay_Scheme_CouponOffer:
 
 * relate_scheme_id: 对应表MOPay_Scheme中id；
+* 
