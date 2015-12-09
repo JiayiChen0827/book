@@ -14,4 +14,4 @@ RedeemType:
 * 30:闪付
 
  
-RedeemRule:
+RedeemRule（主要）:
