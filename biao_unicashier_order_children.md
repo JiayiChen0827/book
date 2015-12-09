@@ -14,4 +14,4 @@ OrderType:为子订单类型:
  * 20:剩余部分支付。
  
 
-PayOrderId:非0元单
+PayOrderId:非0元单中
