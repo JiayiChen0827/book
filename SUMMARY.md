@@ -8,6 +8,7 @@
    * 2.3商务后台
 * [3结构](structure.md)
    * 流水线
+   * 3.1闪惠部署图
 * [4流程](process.md)
    * [3.1支付流程](zhi_fu_liu_cheng.md)
        * [3.1.1用户操作](311yong_hu_cao_zuo.md)
