@@ -4,7 +4,7 @@
     
 其中：
 
-Status:纪录订单当前状态；
+Status:纪录订单当前状态,同mopay-order；
 
 SerializedId:主站订单使用此处数据；
 
