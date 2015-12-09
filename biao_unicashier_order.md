@@ -1,3 +1,3 @@
 # 表UniCashier_Order
 
-    cashier父(base)订单
+    cashier父(base)订单，保存统一收银台订单信息。
