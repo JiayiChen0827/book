@@ -8,3 +8,8 @@
 3. updateOrderService：对各相关表进行维护操作。
 4. updateOrderStatusService：维护父订单状态变更；
 5. updateOrderChildrenStatusService：维护子订单状态变更。
+
+
+项目依赖：
+
+MOPay数据库。
