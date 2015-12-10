@@ -4,4 +4,5 @@
         
 提供接口：
 1. insertOrderService：插入cashier订单，包括父单子单以及Detail等各相关表。
-2. loadOrderService/slaveLoadOrderService:从主/从库中获取各表中的信息
+2. loadOrderService/slaveLoadOrderService:从主/从库中获取各表中的信息。
+3. 
