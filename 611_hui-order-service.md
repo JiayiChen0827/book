@@ -4,6 +4,6 @@
     
 
 提供接口：
-1. createHuiOrderService：创建shanhui订单
-2. 
+1. createHuiOrderService：创建HUI订单
+2. createHuiPreOrderService：创建HUI预订单
 
