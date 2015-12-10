@@ -4,3 +4,4 @@
     
 
 提供接口：
+1. createHuiOrder：创建闪惠订单
