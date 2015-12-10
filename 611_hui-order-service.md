@@ -15,4 +15,5 @@
 9. huiOrderReceiptService：维护mopay_receipt表（主库）；
 10. slaveQueryHuiOrderReceiptService：查询mopay_receipt表（从库）；
 11. huiOrderMerchantCouponService：维护merchant表（主库）；
+12. slaveQueryHuiOrderMerchantCouponService：查询merchant表（从库）；
 
