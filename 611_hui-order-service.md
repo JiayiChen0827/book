@@ -6,4 +6,5 @@
 提供接口：
 1. createHuiOrderService：创建HUI订单
 2. createHuiPreOrderService：创建HUI预订单
+3. orderProcessService：维护闪惠订单
 
