@@ -12,5 +12,5 @@
 6. refundHuiOrderService：闪惠订单退款操作；
 7. queryHuiOrderService：查询闪惠订单（主库）；
 8. slaveQueryHuiOrderService：查询闪惠订单（从库）；
-9. huiOrderReceiptService：维护mopay_receipt表
+9. huiOrderReceiptService：维护mopay_receipt表;
 
