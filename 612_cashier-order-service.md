@@ -6,3 +6,4 @@
 1. insertOrderService：插入cashier订单，包括父单子单以及Detail等各相关表。
 2. loadOrderService/slaveLoadOrderService：从主/从库中获取各表中的信息。
 3. updateOrderService：对各相关表进行维护操作。
+4. updateOrderStatusService：维护父订单状态变更；
