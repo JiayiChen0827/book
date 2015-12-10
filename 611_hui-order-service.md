@@ -1,6 +1,6 @@
 # 6.1.1 hui-order-service
 
-    闪惠订单操作service，提供创建，维护闪惠订单的接口。
+    闪惠订单操作service，主要被mopay－service和hui－business－service所依赖，提供创建，维护闪惠订单的接口。
     
 
 提供接口：
@@ -11,4 +11,5 @@
 5. slaveQueryPreOrderService：预订单搜索；
 6. refundHuiOrderService：闪惠订单退款操作；
 7. queryHuiOrderService：查询闪惠订单（主库）；
+8. slaveQueryHuiOrderService：
 
