@@ -11,5 +11,5 @@
 5. slaveQueryPreOrderService：预订单搜索；
 6. refundHuiOrderService：闪惠订单退款操作；
 7. queryHuiOrderService：查询闪惠订单（主库）；
-8. slaveQueryHuiOrderService：
+8. slaveQueryHuiOrderService：查询闪惠订单（从库）；
 
