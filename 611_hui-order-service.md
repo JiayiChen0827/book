@@ -17,3 +17,8 @@
 11. huiOrderMerchantCouponService：维护merchant表（主库）；
 12. slaveQueryHuiOrderMerchantCouponService：查询merchant表（从库）；
 
+
+项目依赖：
+
+MOPay数据
+
